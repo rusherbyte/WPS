@@ -13,7 +13,13 @@ SCC                 = xlc_r
 LD                  = $(FC)
 FFLAGS              = -qfree=f90 -qufmt=be
 F77FLAGS            = -qfixed -qufmt=be
-FNGFLAGS            = $(FFLAGS)
+FNGFLAGS            = 123456789101112131415161718192021222324252627
+This terminal was closed
+Restart
+
+Ask and chat about your codebase...
+
+$(FFLAGS)
 LDFLAGS             =
 CFLAGS              =
 CPP                 = cpp -P -traditional
